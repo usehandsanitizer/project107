@@ -1,0 +1,18 @@
+body{
+    background: grey;
+    
+    
+}
+.copy_right_footer{
+   
+    background:#ffffff;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Supermercado One', cursive;
+
+
+}
+.head{
+    background:#ffffff;
+    font-family: 'Comforter', cursive;
+}
